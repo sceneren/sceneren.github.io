@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.rajat.sample.pdfviewer",
+    "package_name": "com.saio.mutv",
     "sha256_cert_fingerprints":
-    ["92:60:12:1C:95:8E:C2:7A:ED:B9:74:CC:CE:79:9E:B4:28:15:38:03:75:3A:B8:E6:2E:2D:84:CF:C9:BE:16:CB"]
+["D0:BA:03:37:03:CF:FE:4A:A6:EF:F9:FD:21:7C:40:67:3E:D6:D2:5B:EE:5E:E1:40:FC:97:C1:70:6A:26:FA:50"]
   }
 }]
